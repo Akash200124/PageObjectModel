@@ -1,0 +1,11 @@
+what is framework ?
+
+A framework defines a set of rules or best practices that we can follow in a systematic way to achieve the desired results.
+
+The selenium framework is a code structure that makes code maintenance easy and efficient 
+
+
+Setps
+1. create maven project 
+2. add dependencies in pom.xml 
+3. create base package 
